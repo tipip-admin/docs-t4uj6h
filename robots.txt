@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-ln7rpb.privatetalks.online/sitemap.xml
